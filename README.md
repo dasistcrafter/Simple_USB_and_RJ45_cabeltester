@@ -43,6 +43,14 @@ There can be false OK results becase 2 Conductors are touching inside the wire. 
 
 
 
+![Schematic_Simple-Leds_2025-03-28](https://github.com/user-attachments/assets/465848ae-67b9-4864-8d25-6e831e3d9013)
+
+
+
+![image](https://github.com/user-attachments/assets/1e73a608-6ca0-433a-bb53-435418c99cd5)
+
+
+![image](https://github.com/user-attachments/assets/6a541ca6-61ad-4232-8f19-43c2c8af9290)
 
 
 ![image](https://github.com/user-attachments/assets/78d95939-e9c4-483e-aea5-c668ad30d2a2)
