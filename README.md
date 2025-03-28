@@ -39,18 +39,34 @@ the text above can also be found printet on the PCB.
 It works by applying 5 volt on site A.
 The power is the transmitted over the cabel.
 If the string inside the cabel is broken the led should not light up.
-There can be false OK results becase 2 Conductors are touching inside the wire. if this is the case the current desing can not detect this.(I am planig a version with a miocrocontorler in the future that can detect these kinds of malfunctions)
+There can be false OK results becase 2 Conductors are touching inside the wire.I
+If this is the case the current desing can not detect this.
+(I am planig a version with a miocrocontorler in the future that can detect these kinds of malfunctions)
+
+
+
+
 
 
 
 ![Schematic_Simple-Leds_2025-03-28](https://github.com/user-attachments/assets/465848ae-67b9-4864-8d25-6e831e3d9013)
+General schematics (they can sometimes be not 100% up to date)
+
 
 
 
 ![image](https://github.com/user-attachments/assets/1e73a608-6ca0-433a-bb53-435418c99cd5)
+PCB Layout with text.
+
+
 
 
 ![image](https://github.com/user-attachments/assets/6a541ca6-61ad-4232-8f19-43c2c8af9290)
+PCB 2D view without the solder on components.
+
+
 
 
 ![image](https://github.com/user-attachments/assets/78d95939-e9c4-483e-aea5-c668ad30d2a2)
+PCB 3D view with the solder on components.
+
