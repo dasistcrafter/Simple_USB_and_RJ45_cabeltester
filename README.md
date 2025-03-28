@@ -33,6 +33,8 @@ https://github.com/dasistcrafter
 DO NOT PLUG INTO ANY DEVICE!
 IT CAN KILL IT INSTANTLY!
 
+the text above can also be found printet on the PCB.
+
 
 It works by applying 5 volt on site A.
 The power is the transmitted over the cabel.
@@ -42,6 +44,5 @@ There can be false OK results becase 2 Conductors are touching inside the wire. 
 
 
 
-the text above can also be found printet on the PCB.
 
 ![image](https://github.com/user-attachments/assets/78d95939-e9c4-483e-aea5-c668ad30d2a2)
