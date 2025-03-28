@@ -43,7 +43,17 @@ There can be false OK results becase 2 Conductors are touching inside the wire.I
 If this is the case the current desing can not detect this.
 (I am planig a version with a miocrocontorler in the future that can detect these kinds of malfunctions)
 
+If you dont want to keep pressing the button you can conect the holes by the RJ45_A conector.(This can lead to more stress on the cabel and is not recommend)
 
+
+![image](https://github.com/user-attachments/assets/a8cd5e70-08a2-4346-809a-5d523769f88b)
+
+Note: You can get the files from me if you want. I didn't put them online because I am currently changing a lot.
+      In case you want to eddit this project you are highly welcomed. If you post you eddit please put the link to my page in. (:
+
+
+      
+Images:
 
 
 
@@ -61,12 +71,11 @@ PCB Layout with text.
 
 
 
-![image](https://github.com/user-attachments/assets/6a541ca6-61ad-4232-8f19-43c2c8af9290)
+![image](https://github.com/user-attachments/assets/78d95939-e9c4-483e-aea5-c668ad30d2a2)
 PCB 2D view without the solder on components.
 
 
 
-
-![image](https://github.com/user-attachments/assets/78d95939-e9c4-483e-aea5-c668ad30d2a2)
+![image](https://github.com/user-attachments/assets/6a541ca6-61ad-4232-8f19-43c2c8af9290)
 PCB 3D view with the solder on components.
 
