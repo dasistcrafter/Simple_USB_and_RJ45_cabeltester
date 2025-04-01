@@ -7,10 +7,9 @@ I will be ordering the first batch in the coming days for testing. If you choose
 
 <b/>
 I am not liable for any damage to property or injury that may result from using this design.
+
+
 </b>
-
-
-
 
 
 This is a little cabele tester.
