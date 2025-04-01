@@ -3,7 +3,12 @@ A simple cabel tester for USB-A;USB-C;Micro-UBS;USB-B;RJ45
 
 
 DISCLAIMER: This is a work in progress project. Please do not be suprised to find errors, and if please leave me some feedback so I can fix it ASAP.
-I will be ordering the first batch in the coming days for testing. If you choose to build this PCB yourself, you do so at your own risk. I am not liable for any damage to property or injury that may result from using this design.
+I will be ordering the first batch in the coming days for testing. If you choose to build this PCB yourself, you do so at your own risk. 
+
+<b/>
+I am not liable for any damage to property or injury that may result from using this design.
+</b>
+
 
 
 
@@ -36,7 +41,7 @@ IT CAN KILL IT INSTANTLY!
 the text above can also be found printet on the PCB.
 
 
-It works by applying 5 volt on site A.
+It works by applying 2 volt on site A.
 The power is the transmitted over the cabel.
 If the string inside the cabel is broken the led should not light up.
 There can be false OK results becase 2 Conductors are touching inside the wire.I
