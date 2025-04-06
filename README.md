@@ -63,23 +63,27 @@ Images (not up to date!):
 
 
 
-![Schematic_Simple-Leds_2025-03-28](https://github.com/user-attachments/assets/465848ae-67b9-4864-8d25-6e831e3d9013)
+![image](https://github.com/user-attachments/assets/2c8a4802-1f6b-4848-83dc-dc6040bb9a71)
+
 General schematics (they can sometimes be not 100% up to date)
 
 
 
 
-![image](https://github.com/user-attachments/assets/1e73a608-6ca0-433a-bb53-435418c99cd5)
+![image](https://github.com/user-attachments/assets/3acec1f5-eefe-4396-a6e4-18b9c7869637)
+
 PCB Layout with text.
 
 
 
 
-![image](https://github.com/user-attachments/assets/78d95939-e9c4-483e-aea5-c668ad30d2a2)
+![image](https://github.com/user-attachments/assets/2538f760-f7e3-4e2c-855d-64c7b3ad78f5)
+
 PCB 2D view without the solder on components.
 
 
 
-![image](https://github.com/user-attachments/assets/6a541ca6-61ad-4232-8f19-43c2c8af9290)
+![image](https://github.com/user-attachments/assets/2b442c65-e362-4564-a8e7-849542e4a0e6)
+
 PCB 3D view with the solder on components.
 
