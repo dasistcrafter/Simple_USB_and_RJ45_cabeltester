@@ -25,7 +25,7 @@ Plug one end into Side A
 and the other into Side B
 
 Power the device via the
-POWER Micro-USB port.
+POWER USB-C port.
 
 Press the TEST switch.
 
