@@ -6,7 +6,7 @@ A simple cable tester for USB-A, USB-C, Micro-USB, USB-B, and RJ45.
 
 ---
 
-### ⚠️ Disclaimer
+### Disclaimer
 
 This is a **work-in-progress** project. Please don’t be surprised if you find errors – and if you do, please leave feedback so I can fix them ASAP.
 
@@ -17,7 +17,7 @@ If you choose to build this PCB yourself, you do so **at your own risk**.
 
 ---
 
-## 🔧 Description
+##  Description
 
 This is a small cable tester.  
 It’s designed to test whether a connection through a conductor is present or not.
@@ -26,7 +26,7 @@ You can use it to identify **broken** or **cheap cables**.
 
 ---
 
-## 📖 Cable Tester v1.0 – Instructions
+## Cable Tester v1.0 – Instructions
 
 ```
 1. Plug the cable into Side A and Side B.
@@ -36,7 +36,7 @@ You can use it to identify **broken** or **cheap cables**.
 5. If an LED turns on, that line works correctly.
 ```
 
-➡️ **DO NOT PLUG INTO ANY DEVICE!**  
+**DO NOT PLUG INTO ANY DEVICE!**  
 It can kill it **instantly!**
 
 (The text above is also printed on the PCB.)
@@ -53,13 +53,13 @@ If a conductor inside the cable is broken, the LED should **not** light up.
 You can select individual lines using the DIP switches.
 
 If you don’t want to keep pressing the button, you can **bridge the jumper** next to the switch.  
-⚠️ *Note: This may cause more stress on the cable and is **not recommended***.
+*Note: This may cause more stress on the cable and is **not recommended***.
 
 The voltage can be adjusted using the **potentiometer**.
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 You can request the files from me.  
 I haven’t uploaded them yet, as I’m still making many changes.
@@ -69,7 +69,7 @@ please just include a link back to my page.
 
 ---
 
-## 📸 Images
+## Images
 
 ### Circuit Board  
 ![image](https://github.com/user-attachments/assets/98cfade1-ffd6-45b8-b725-18b8748cd2e3)
@@ -83,8 +83,8 @@ please just include a link back to my page.
 
 ---
 
-## 🔗 More Info
+## More Info
 
-👉 [github.com/dasistcrafter](https://github.com/dasistcrafter)
+[github.com/dasistcrafter](https://github.com/dasistcrafter)
 
 ---
